@@ -1,9 +1,10 @@
 package site_test
 
 import (
-	"github.com/GPA-Gruppo-Progetti-Avanzati-SRL/opem-store/store/system/site"
 	"testing"
 	"time"
+
+	"github.com/mario-imperato/r3ng-store/store/system/site"
 )
 
 const (

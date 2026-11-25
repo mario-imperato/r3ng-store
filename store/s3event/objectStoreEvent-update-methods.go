@@ -6,8 +6,8 @@ import (
 
 	"go.mongodb.org/mongo-driver/v2/bson"
 
-	"github.com/GPA-Gruppo-Progetti-Avanzati-SRL/opem-store/store/commons"
 	"github.com/aws/aws-lambda-go/events"
+	"github.com/mario-imperato/r3ng-store/store/commons"
 )
 
 // @tpm-schematics:start-region("top-file-section")

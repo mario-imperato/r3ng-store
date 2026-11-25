@@ -2,10 +2,11 @@ package user
 
 import (
 	"fmt"
-	"go.mongodb.org/mongo-driver/v2/bson"
 	"time"
 
-	"github.com/GPA-Gruppo-Progetti-Avanzati-SRL/opem-store/store/commons"
+	"go.mongodb.org/mongo-driver/v2/bson"
+
+	"github.com/mario-imperato/r3ng-store/store/commons"
 )
 
 // @tpm-schematics:start-region("top-file-section")

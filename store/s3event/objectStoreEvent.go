@@ -6,7 +6,7 @@ import (
 	"github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-common/util"
 	"go.mongodb.org/mongo-driver/v2/bson"
 )
-import "github.com/GPA-Gruppo-Progetti-Avanzati-SRL/opem-store/store/commons"
+import "github.com/mario-imperato/r3ng-store/store/commons"
 import "github.com/aws/aws-lambda-go/events"
 
 // @tpm-schematics:start-region("top-file-section")

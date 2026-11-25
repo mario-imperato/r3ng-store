@@ -4,8 +4,8 @@ import (
 	"context"
 	"testing"
 
-	"github.com/GPA-Gruppo-Progetti-Avanzati-SRL/opem-store/store/system/sequence"
 	"github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-mongo-common/mongolks"
+	"github.com/mario-imperato/r3ng-store/store/system/sequence"
 	"github.com/stretchr/testify/require"
 	"go.mongodb.org/mongo-driver/v2/mongo/options"
 )

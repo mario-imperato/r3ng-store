@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/GPA-Gruppo-Progetti-Avanzati-SRL/opem-store/store"
+	"github.com/mario-imperato/r3ng-store/store"
 
 	"go.mongodb.org/mongo-driver/v2/bson"
 	"go.mongodb.org/mongo-driver/v2/mongo"

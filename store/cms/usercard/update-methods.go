@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/GPA-Gruppo-Progetti-Avanzati-SRL/opem-store/store/commons"
+	"github.com/mario-imperato/r3ng-store/store/commons"
 
 	"go.mongodb.org/mongo-driver/v2/bson"
 )

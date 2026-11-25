@@ -3,10 +3,10 @@ package system
 import (
 	"time"
 
-	"github.com/GPA-Gruppo-Progetti-Avanzati-SRL/opem-store/store/system/domain"
-	"github.com/GPA-Gruppo-Progetti-Avanzati-SRL/opem-store/store/system/session"
-	"github.com/GPA-Gruppo-Progetti-Avanzati-SRL/opem-store/store/system/site"
-	"github.com/GPA-Gruppo-Progetti-Avanzati-SRL/opem-store/store/system/user"
+	"github.com/mario-imperato/r3ng-store/store/system/domain"
+	"github.com/mario-imperato/r3ng-store/store/system/session"
+	"github.com/mario-imperato/r3ng-store/store/system/site"
+	"github.com/mario-imperato/r3ng-store/store/system/user"
 )
 
 const (

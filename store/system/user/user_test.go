@@ -1,8 +1,8 @@
 package user_test
 
 import (
-	"github.com/GPA-Gruppo-Progetti-Avanzati-SRL/opem-store/store/commons"
-	"github.com/GPA-Gruppo-Progetti-Avanzati-SRL/opem-store/store/system/user"
+	"github.com/mario-imperato/r3ng-store/store/commons"
+	"github.com/mario-imperato/r3ng-store/store/system/user"
 	"github.com/stretchr/testify/require"
 	"testing"
 	"time"

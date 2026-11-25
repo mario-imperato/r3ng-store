@@ -3,8 +3,8 @@ package keyvaluepackage_test
 import (
 	"fmt"
 
-	"github.com/GPA-Gruppo-Progetti-Avanzati-SRL/opem-store/store"
-	"github.com/GPA-Gruppo-Progetti-Avanzati-SRL/opem-store/store/system/keyvaluepackage"
+	"github.com/mario-imperato/r3ng-store/store"
+	"github.com/mario-imperato/r3ng-store/store/system/keyvaluepackage"
 	"github.com/stretchr/testify/require"
 	"testing"
 )
