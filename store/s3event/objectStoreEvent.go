@@ -79,7 +79,7 @@ func NewObjectStoreEvent(bucket, objectKey string, size int64) ObjectStoreEvent 
 					OwnerIdentity: events.S3UserIdentity{
 						PrincipalID: "A25IM5X7I3AW2K",
 					},
-					Arn: "ws:s3:::gpagroup-dev-opem-flussi",
+					Arn: "ws:s3:::gpagroup-dev-r3ng-flussi",
 				},
 				Object: events.S3Object{
 					Key:           objectKey,

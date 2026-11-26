@@ -33,7 +33,7 @@ var cfg = mongolks.Config{
 	Collections: []mongolks.CollectionCfg{
 		{
 			Id:   sequence.CollectionId,
-			Name: "opem_system",
+			Name: "r3ng_system",
 		},
 	},
 	SecurityProtocol: os.Getenv("MONGODB_SECURITY_PROTOCOL"),
